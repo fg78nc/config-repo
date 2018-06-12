@@ -1,1 +1,1 @@
-example.property: "default-git"
+example.property: "{cipher}default-git"
